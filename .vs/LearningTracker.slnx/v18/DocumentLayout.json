@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Kenneth Malgas\\source\\repos\\LearningTracker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2096669B-C286-42B1-A8D1-2E2D1C45EF9E}|LearningTrackerApp\\LearningTrackerApp.csproj|c:\\users\\kenneth malgas\\source\\repos\\learningtracker\\learningtrackerapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2096669B-C286-42B1-A8D1-2E2D1C45EF9E}|LearningTrackerApp\\LearningTrackerApp.csproj|solutionrelative:learningtrackerapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2096669B-C286-42B1-A8D1-2E2D1C45EF9E}|LearningTrackerApp\\LearningTrackerApp.csproj|c:\\users\\kenneth malgas\\source\\repos\\learningtracker\\learningtrackerapp\\controllers\\learningcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2096669B-C286-42B1-A8D1-2E2D1C45EF9E}|LearningTrackerApp\\LearningTrackerApp.csproj|solutionrelative:learningtrackerapp\\controllers\\learningcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2096669B-C286-42B1-A8D1-2E2D1C45EF9E}|LearningTrackerApp\\LearningTrackerApp.csproj|c:\\users\\kenneth malgas\\source\\repos\\learningtracker\\learningtrackerapp\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2096669B-C286-42B1-A8D1-2E2D1C45EF9E}|LearningTrackerApp\\LearningTrackerApp.csproj|solutionrelative:learningtrackerapp\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2096669B-C286-42B1-A8D1-2E2D1C45EF9E}|LearningTrackerApp\\LearningTrackerApp.csproj|c:\\users\\kenneth malgas\\source\\repos\\learningtracker\\learningtrackerapp\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2096669B-C286-42B1-A8D1-2E2D1C45EF9E}|LearningTrackerApp\\LearningTrackerApp.csproj|solutionrelative:learningtrackerapp\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2096669B-C286-42B1-A8D1-2E2D1C45EF9E}|LearningTrackerApp\\LearningTrackerApp.csproj|c:\\users\\kenneth malgas\\source\\repos\\learningtracker\\learningtrackerapp\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2096669B-C286-42B1-A8D1-2E2D1C45EF9E}|LearningTrackerApp\\LearningTrackerApp.csproj|solutionrelative:learningtrackerapp\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2096669B-C286-42B1-A8D1-2E2D1C45EF9E}|LearningTrackerApp\\LearningTrackerApp.csproj|c:\\users\\kenneth malgas\\source\\repos\\learningtracker\\learningtrackerapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2096669B-C286-42B1-A8D1-2E2D1C45EF9E}|LearningTrackerApp\\LearningTrackerApp.csproj|solutionrelative:learningtrackerapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2096669B-C286-42B1-A8D1-2E2D1C45EF9E}|LearningTrackerApp\\LearningTrackerApp.csproj|c:\\users\\kenneth malgas\\source\\repos\\learningtracker\\learningtrackerapp\\data\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2096669B-C286-42B1-A8D1-2E2D1C45EF9E}|LearningTrackerApp\\LearningTrackerApp.csproj|solutionrelative:learningtrackerapp\\data\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2096669B-C286-42B1-A8D1-2E2D1C45EF9E}|LearningTrackerApp\\LearningTrackerApp.csproj|c:\\users\\kenneth malgas\\source\\repos\\learningtracker\\learningtrackerapp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2096669B-C286-42B1-A8D1-2E2D1C45EF9E}|LearningTrackerApp\\LearningTrackerApp.csproj|solutionrelative:learningtrackerapp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2096669B-C286-42B1-A8D1-2E2D1C45EF9E}|LearningTrackerApp\\LearningTrackerApp.csproj|c:\\users\\kenneth malgas\\source\\repos\\learningtracker\\learningtrackerapp\\views\\learning\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2096669B-C286-42B1-A8D1-2E2D1C45EF9E}|LearningTrackerApp\\LearningTrackerApp.csproj|solutionrelative:learningtrackerapp\\views\\learning\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2096669B-C286-42B1-A8D1-2E2D1C45EF9E}|LearningTrackerApp\\LearningTrackerApp.csproj|c:\\users\\kenneth malgas\\source\\repos\\learningtracker\\learningtrackerapp\\models\\learningitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2096669B-C286-42B1-A8D1-2E2D1C45EF9E}|LearningTrackerApp\\LearningTrackerApp.csproj|solutionrelative:learningtrackerapp\\models\\learningitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2096669B-C286-42B1-A8D1-2E2D1C45EF9E}|LearningTrackerApp\\LearningTrackerApp.csproj|c:\\users\\kenneth malgas\\source\\repos\\learningtracker\\learningtrackerapp\\data\\learningrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2096669B-C286-42B1-A8D1-2E2D1C45EF9E}|LearningTrackerApp\\LearningTrackerApp.csproj|solutionrelative:learningtrackerapp\\data\\learningrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2096669B-C286-42B1-A8D1-2E2D1C45EF9E}|LearningTrackerApp\\LearningTrackerApp.csproj|c:\\users\\kenneth malgas\\source\\repos\\learningtracker\\learningtrackerapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2096669B-C286-42B1-A8D1-2E2D1C45EF9E}|LearningTrackerApp\\LearningTrackerApp.csproj|solutionrelative:learningtrackerapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Kenneth Malgas\\source\\repos\\LearningTracker\\LearningTrackerApp\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "LearningTrackerApp\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Kenneth Malgas\\source\\repos\\LearningTracker\\LearningTrackerApp\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "LearningTrackerApp\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-04T20:06:39.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\Kenneth Malgas\\source\\repos\\LearningTracker\\LearningTrackerApp\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "LearningTrackerApp\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\Kenneth Malgas\\source\\repos\\LearningTracker\\LearningTrackerApp\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "LearningTrackerApp\\Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-04T20:04:52.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LearningController.cs",
+              "DocumentMoniker": "C:\\Users\\Kenneth Malgas\\source\\repos\\LearningTracker\\LearningTrackerApp\\Controllers\\LearningController.cs",
+              "RelativeDocumentMoniker": "LearningTrackerApp\\Controllers\\LearningController.cs",
+              "ToolTip": "C:\\Users\\Kenneth Malgas\\source\\repos\\LearningTracker\\LearningTrackerApp\\Controllers\\LearningController.cs",
+              "RelativeToolTip": "LearningTrackerApp\\Controllers\\LearningController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-04T13:47:08.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Kenneth Malgas\\source\\repos\\LearningTracker\\LearningTrackerApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "LearningTrackerApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Kenneth Malgas\\source\\repos\\LearningTracker\\LearningTrackerApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "LearningTrackerApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAACAAAAAAAAAAAAAIwCoAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-04T13:53:49.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Kenneth Malgas\\source\\repos\\LearningTracker\\LearningTrackerApp\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "LearningTrackerApp\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Kenneth Malgas\\source\\repos\\LearningTracker\\LearningTrackerApp\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "LearningTrackerApp\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAIwCAAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-04T19:57:19.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Kenneth Malgas\\source\\repos\\LearningTracker\\LearningTrackerApp\\Data\\UserRepository.cs",
+              "RelativeDocumentMoniker": "LearningTrackerApp\\Data\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\Kenneth Malgas\\source\\repos\\LearningTracker\\LearningTrackerApp\\Data\\UserRepository.cs",
+              "RelativeToolTip": "LearningTrackerApp\\Data\\UserRepository.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAABMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-04T19:52:37.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Kenneth Malgas\\source\\repos\\LearningTracker\\LearningTrackerApp\\Models\\User.cs",
+              "RelativeDocumentMoniker": "LearningTrackerApp\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Kenneth Malgas\\source\\repos\\LearningTracker\\LearningTrackerApp\\Models\\User.cs",
+              "RelativeToolTip": "LearningTrackerApp\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-04T19:51:23.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Kenneth Malgas\\source\\repos\\LearningTracker\\LearningTrackerApp\\Views\\Learning\\Index.cshtml",
+              "RelativeDocumentMoniker": "LearningTrackerApp\\Views\\Learning\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Kenneth Malgas\\source\\repos\\LearningTracker\\LearningTrackerApp\\Views\\Learning\\Index.cshtml",
+              "RelativeToolTip": "LearningTrackerApp\\Views\\Learning\\Index.cshtml",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAAACwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-04T13:53:06.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Kenneth Malgas\\source\\repos\\LearningTracker\\LearningTrackerApp\\Program.cs",
+              "RelativeDocumentMoniker": "LearningTrackerApp\\Program.cs",
+              "ToolTip": "C:\\Users\\Kenneth Malgas\\source\\repos\\LearningTracker\\LearningTrackerApp\\Program.cs",
+              "RelativeToolTip": "LearningTrackerApp\\Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-04T13:33:35.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LearningRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Kenneth Malgas\\source\\repos\\LearningTracker\\LearningTrackerApp\\Data\\LearningRepository.cs",
+              "RelativeDocumentMoniker": "LearningTrackerApp\\Data\\LearningRepository.cs",
+              "ToolTip": "C:\\Users\\Kenneth Malgas\\source\\repos\\LearningTracker\\LearningTrackerApp\\Data\\LearningRepository.cs",
+              "RelativeToolTip": "LearningTrackerApp\\Data\\LearningRepository.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAYwDAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-04T13:40:11.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LearningItem.cs",
+              "DocumentMoniker": "C:\\Users\\Kenneth Malgas\\source\\repos\\LearningTracker\\LearningTrackerApp\\Models\\LearningItem.cs",
+              "RelativeDocumentMoniker": "LearningTrackerApp\\Models\\LearningItem.cs",
+              "ToolTip": "C:\\Users\\Kenneth Malgas\\source\\repos\\LearningTracker\\LearningTrackerApp\\Models\\LearningItem.cs",
+              "RelativeToolTip": "LearningTrackerApp\\Models\\LearningItem.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-04T13:30:27.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Kenneth Malgas\\source\\repos\\LearningTracker\\LearningTrackerApp\\appsettings.json",
+              "RelativeDocumentMoniker": "LearningTrackerApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\Kenneth Malgas\\source\\repos\\LearningTracker\\LearningTrackerApp\\appsettings.json",
+              "RelativeToolTip": "LearningTrackerApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-04T13:32:19.528Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

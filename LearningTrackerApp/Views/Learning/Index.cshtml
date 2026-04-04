@@ -1,0 +1,124 @@
+﻿@model IEnumerable<LearningTrackerApp.Models.LearningItem>
+
+@{
+    ViewData["Title"] = "My Learning Tracker";
+}
+
+<div class="container mt-5">
+    <h2>📚 Learning Tracker</h2>
+
+    <div class="row mb-4 text-center">
+        <div class="col-md-4">
+            <div class="card bg-primary text-white shadow-sm">
+                <div class="card-body">
+                    <h6>Total Topics</h6>
+                    <h3>@ViewBag.Total</h3>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="card bg-success text-white shadow-sm">
+                <div class="card-body">
+                    <h6>Completed</h6>
+                    <h3>@ViewBag.Completed</h3>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="card bg-info text-white shadow-sm">
+                <div class="card-body">
+                    <h6>Main Focus</h6>
+                    <p class="mb-0"><strong>@ViewBag.TopCategory</strong></p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    @{
+        // Calculate percentage (avoiding division by zero)
+        int progress = ViewBag.Total > 0 ? (ViewBag.Completed * 100) / ViewBag.Total : 0;
+    }
+
+    <div class="progress mb-4" style="height: 25px;">
+        <div class="progress-bar bg-success progress-bar-striped progress-bar-animated"
+             role="progressbar"
+             style="width: @progress : %;"
+             aria-valuenow="@progress"
+             aria-valuemin="0"
+             aria-valuemax="100">
+            @progress% Completed
+        </div>
+    </div>
+
+    <br /> 
+
+    <form asp-action="Index" method="get" class="mb-4">
+        <div class="input-group">
+            <input type="text" name="searchString" class="form-control"
+                   placeholder="Search topics..." value="@ViewData["CurrentFilter"]" />
+            <button type="submit" class="btn btn-outline-secondary">Search</button>
+            <a asp-action="Index" class="btn btn-outline-danger">Clear</a>
+        </div>
+    </form>
+
+    <hr />
+
+    <form asp-action="Add" method="post" class="mb-4">
+        <div class="input-group">
+            <input type="text" name="topic" class="form-control" placeholder="What did you learn today?" required />
+            <select name="category" class="form-select" style="max-width: 150px;">
+                <option value="C#">C#</option>
+                <option value="SQL">SQL</option>
+                <option value="HTML/CSS">HTML/CSS</option>
+                <option value="General">General</option>
+            </select>
+            <button type="submit" class="btn btn-primary">Add Topic</button>
+        </div>
+    </form>
+
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>Topic</th>
+                <th>Date</th>
+                <th>Action</th>
+            </tr>
+        </thead>
+        <tbody>
+            @if (!Model.Any())
+            {
+                <tr>
+                    <td colspan="3" class="text-center text-muted">
+                        No topics found. Start learning something new!
+                    </td>
+                </tr>
+            }
+            else
+            {
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td style="@(item.IsCompleted ? "text-decoration: line-through; color: gray;" : "")">
+                            @item.Topic
+                        </td>
+                        <td>@item.DateLearned.ToShortDateString()</td>
+                        <td class="d-flex gap-2">
+                            @if (!item.IsCompleted)
+                            {
+                                <form asp-action="Complete" method="post">
+                                    <input type="hidden" name="id" value="@item.Id" />
+                                    <button type="submit" class="btn btn-sm btn-success">Done</button>
+                                </form>
+                            }
+                
+                            <form asp-action="Delete" method="post" onsubmit="return confirm('Delete this?');">
+                                <input type="hidden" name="id" value="@item.Id" />
+                                <button type="submit" class="btn btn-sm btn-danger">Delete</button>
+                            </form>
+                        </td>
+                    </tr>
+                }
+            }
+        </tbody>
+    </table>
+</div>
